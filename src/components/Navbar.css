@@ -1,0 +1,37 @@
+.form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.starplusinput {
+    display: flex;
+    justify-content: center;
+}
+.reactstars {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size: 50px;
+    font-size: 35px;
+}
+.nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.nav_link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    width: 100%;
+}
+.link {
+    color: black;
+    font-weight: 600;
+}
+.link:hover {
+    color: rgb(255, 0, 0);
+}
